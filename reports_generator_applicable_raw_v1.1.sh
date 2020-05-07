@@ -1,13 +1,13 @@
-###################################################
+##################################################
 # Description : Create Applicable Report for Satellite 6.5
-# Auteur: Fabien ROFFET
+# Auteur: Fabien ROFFET & Yann ILAS
 # Mise à jour le: 07.04.2020
 ####################################################
 
 #DEFINE VARIABLE :
 ##################
 
-VARORGA="Your ORG"
+VARORGA="ORG_UFLEX3_BDP"
 VARDESTREP="/var/www/html/pub/reporting/datas"
 VARHOSTLIST="report_host_applicable_list.lst"
 VARPREFIXFILE="appl_details_"

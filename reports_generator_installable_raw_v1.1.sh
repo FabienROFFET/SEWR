@@ -7,7 +7,7 @@
 #DEFINE VARIABLE :
 ##################
 
-VARORGA="YOUR ORG"
+VARORGA="ORG_UFLEX3_BDP"
 VARDESTREP="/var/www/html/pub/reporting/datas"
 VARHOSTLIST="report_host_installable_list.lst"
 VARPREFIXFILE="inst_details_"
